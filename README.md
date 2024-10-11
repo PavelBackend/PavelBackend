@@ -25,9 +25,9 @@ You can check out more about **HomeSwap** in my repository!
 
 I'm always open to discussing exciting projects, sharing knowledge, and growing as a developer. Feel free to reach out!
 
-- **Email**: pavelsamo555@gmail.com
-- **LinkedIn**: [Pavel Samokhin](https://www.linkedin.com/in/pavel-samokhin-19056b30b/)
-- **Telegram**: [PavelITJun](https://t.me/IPavelSo)
+- **[Email](mailto:pavelsamo555@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/pavel-samokhin-19056b30b/)**
+- **[Telegram](https://t.me/IPavelSo)**
 
 ---
 
