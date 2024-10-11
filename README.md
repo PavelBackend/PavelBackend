@@ -27,7 +27,7 @@ I'm always open to discussing exciting projects, sharing knowledge, and growing 
 
 - **Email**: pavelsamo555@gmail.com
 - **LinkedIn**: [Pavel Samokhin](https://www.linkedin.com/in/pavel-samokhin-19056b30b/)
-- **GitHub**: [PavelITJun](https://github.com/PavelITJun)
+- **Telegram**: [PavelITJun](https://t.me/IPavelSo)
 
 ---
 
